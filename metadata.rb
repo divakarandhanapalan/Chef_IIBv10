@@ -1,4 +1,4 @@
-name             'ibm_integration_bus'
+name             'Chef_IIBv10'
 maintainer       'Divakaran Dhanapalan'
 maintainer_email 'divakaran.dhanapalan@perficient.com'
 description      'Installs/Configures IBM Integration Bus'
